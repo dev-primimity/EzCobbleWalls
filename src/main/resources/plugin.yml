@@ -1,0 +1,4 @@
+name: EzCobbleWalls
+version: '1.0'
+main: me.primimity.ezCobbleWalls.Main
+api-version: '1.21'

@@ -1,4 +1,30 @@
-name: EzCobbleWalls
-version: '1.0'
 main: me.primimity.ezCobbleWalls.Main
+
+name: EzCobbleWalls
+version: 1.0
+description: 'Place a special block that grows a vertical wall up to build height.'
 api-version: '1.21'
+
+author: Primimity
+website: https://discord.com/users/primimity
+
+commands:
+  ezcobblestone:
+    aliases: ezcobble
+    description: 'Gives the player a special Enchanted Cobblestone block'
+    permission: ezcobblewalls.cobblestone
+    permission-message: You do not have permission!
+    usage: /<command> <player> <amount>
+  ezobsidian:
+    aliases: ezobby
+    description: 'Gives the player a special Enchanted Obsidian block'
+    permission: ezcobblewalls.obsidian
+    permission-message: You do not have permission!
+    usage: /<command> <player> <amount>
+permissions:
+  ezcobblewalls.cobblestone:
+    description: "Allows the usage of the '/ezcobblestone' command"
+    default: op
+  ezcobblewalls.obsidian:
+    description: "Allows the usage of the '/ezobsidian' command"
+    default: op

@@ -1,5 +1,7 @@
 # EzCobbleWalls v1.0
 
+<img width="854" height="480" alt="2025-08-17_13 06 23-min" src="https://github.com/user-attachments/assets/9f70bf8e-f615-49a7-b025-a646feee0187" />
+
 Easily generate cobblestone or obsidian walls straight into the sky with a special block.
 
 ## ✨ Features
@@ -20,3 +22,4 @@ Easily generate cobblestone or obsidian walls straight into the sky with a speci
 ## 🔗 Links
 Need a custom plugin? Message me on Discord:
 https://discord.com/users/primimity
+
